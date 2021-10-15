@@ -3,7 +3,6 @@ import turtle
 import random
 import time
 
-
 #creating turtle screen
 screen = turtle.Screen()
 screen.title('DATAFLAIR-SNAKE GAME')
